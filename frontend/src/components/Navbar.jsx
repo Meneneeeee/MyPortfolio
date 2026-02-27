@@ -34,7 +34,7 @@ const Navbar = ({ isDark, toggleTheme }) => {
         >
             <div className="max-w-7xl mx-auto px-6 md:px-12 flex justify-between items-center">
                 <Link to="home" smooth={true} duration={500} className="text-2xl font-bold font-poppins cursor-pointer text-gray-900 dark:text-white">
-                    Aldrian<span className="text-blue-500 text-3xl">.</span>
+                    menene<span className="text-blue-500 text-3xl"> :)</span>
                 </Link>
 
                 {/* Desktop Nav */}

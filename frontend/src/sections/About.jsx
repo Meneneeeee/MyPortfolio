@@ -42,13 +42,19 @@ const About = () => {
                         className="space-y-6 text-gray-400 text-lg leading-relaxed"
                     >
                         <p>
-                            Hello! I'm <span className="text-gray-900 dark:text-white font-medium">Aldrian Meneses</span>, a passionate Software Engineer with over <span className="text-blue-600 dark:text-blue-400 font-semibold">6 years of experience</span> developing scalable and efficient digital solutions.
+                            Hello! I’m <span className="text-gray-900 dark:text-white font-medium">Aldrian Meneses</span>, a Software Engineer specializing in building end-to-end digital solutions.
                         </p>
+
                         <p>
-                            My journey began with functional frontends, and evolved into a full-stack specialization. I have a strong focus on <span className="text-gray-900 dark:text-white font-medium">Mobile & Web Development</span>, specifically using React ecosystems on the front, and robust Java Spring Boot APIs on the back.
+                            My work involves development across the entire software lifecycle — from crafting responsive frontend interfaces, designing and implementing backend APIs, managing version control workflows, and supporting CI/CD pipelines to ensure applications are production-ready and reliably deployed.
                         </p>
+
                         <p>
-                            I thrive on building scalable systems architecture from the ground up, writing clean and maintainable code, and constantly learning new technologies to solve complex problems elegantly.
+                            In addition, I have practical experience integrating hardware technologies such as RFID devices into software applications for real-time scanning, asset tracking, and process automation.
+                        </p>
+
+                        <p>
+                            I am passionate about writing clean, maintainable, and scalable code while continuously exploring new technologies to deliver efficient and reliable software solutions.
                         </p>
                     </motion.div>
 

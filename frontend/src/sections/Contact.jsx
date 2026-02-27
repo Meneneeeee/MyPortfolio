@@ -4,7 +4,7 @@ import { FiSend, FiCheckCircle, FiLoader, FiAlertCircle } from 'react-icons/fi';
 
 const socials = [
     { name: 'LinkedIn', url: 'https://www.linkedin.com/in/aldrian-meneses-72ab73197/', img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg' },
-    { name: 'GitHub', url: 'https://github.com/menesesav?tab=packages', img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg' },
+    { name: 'GitHub', url: 'https://github.com/Meneneeeee', img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg' },
     { name: 'Email', url: 'mailto:menesesaldrian@gmail.com', img: 'https://upload.wikimedia.org/wikipedia/commons/e/ec/Circle-icons-mail.svg' },
 ];
 
@@ -21,7 +21,7 @@ const Contact = () => {
         setStatus('loading');
 
         try {
-            const response = await fetch('http://localhost:8080/api/contact', {
+            const response = await fetch('http://localhost:5055/api/contact', {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify(formData),

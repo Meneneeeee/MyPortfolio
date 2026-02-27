@@ -33,7 +33,7 @@ const Home = () => {
                         transition={{ delay: 0.3, duration: 0.5 }}
                         className="inline-block px-4 py-2 glass rounded-full w-max border-blue-500/30"
                     >
-                        <span className="text-sm font-medium tracking-wide text-blue-600 dark:text-blue-300">👋 Welcome to my portfolio</span>
+                        <span className="text-sm font-medium tracking-wide text-blue-600 dark:text-blue-300">👋 Welcome</span>
                     </motion.div>
 
                     <h1 className="text-5xl md:text-7xl font-bold leading-tight">
