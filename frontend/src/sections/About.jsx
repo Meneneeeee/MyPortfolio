@@ -5,7 +5,7 @@ const techStack = [
     { name: 'React', img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg' },
     { name: 'Spring Boot', img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg' },
     { name: 'Flutter', img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg' },
-    { name: 'SharePoint', img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Microsoft_Office_SharePoint_%282019%E2%80%932025%29.svg/500px-Microsoft_Office_SharePoint_%282019%E2%80%932025%29.svg.png' },
+    { name: 'Docker', img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg' },
     { name: 'MySQL', img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg' },
     { name: 'Git', img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' },
 ];

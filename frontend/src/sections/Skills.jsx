@@ -36,6 +36,8 @@ const skills = [
             { name: 'MySQL', img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg', level: 95 },
             { name: 'SQL Server', img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg', level: 95 },
             { name: 'IBM Db2', img: 'https://avatars.githubusercontent.com/u/1459110?s=200&v=4', level: 95 },
+            { name: 'SharePoint', img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Microsoft_Office_SharePoint_%282019%E2%80%932025%29.svg/500px-Microsoft_Office_SharePoint_%282019%E2%80%932025%29.svg.png', level: 98 },
+
 
             // Testing (added per your note)
             { name: 'JUnit', img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg', level: 90 },
@@ -43,7 +45,9 @@ const skills = [
             // DevOps & Tooling
             { name: 'Git', img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg', level: 85 },
             { name: 'GitHub', img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg', level: 90 },
-            { name: 'Postman', img: 'https://voyager.postman.com/logo/postman-logo-icon-orange.svg', level: 98 }
+            { name: 'Postman', img: 'https://voyager.postman.com/logo/postman-logo-icon-orange.svg', level: 98 },
+            { name: 'Docker', img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg', level: 95 },
+
         ]
     }
 ];
